@@ -1,0 +1,3 @@
+A = "Tharun"
+
+print(A)
